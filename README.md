@@ -1,5 +1,6 @@
 ## Olá! eu sou a Ana Alice Shida
 - 🌱 Estudante de Engenharia de Software - 5° semestre
+  
   <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/aliceshida">
       <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=aliceshida&show_icons=true&theme=radical"/>
