@@ -13,7 +13,8 @@
   </a>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliceShida&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceShida&layout=compact&theme=dracula)
+
 
 ![snake animation](https://github.com/AliceShida/AliceShida/blob/output/github-contribution-grid-snake-dark.svg)
 
