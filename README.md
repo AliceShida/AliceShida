@@ -11,7 +11,3 @@
     <a href="https://discord.gg/H5KYXhss"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AliceShida&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=AliceShida&theme=dracula" height="150"/>
-</div>
