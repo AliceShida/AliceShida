@@ -11,3 +11,6 @@
     <a href="https://discord.gg/H5KYXhss"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
+
+![snake animation](https://github.com/AliceShida/AliceShida/blob/output/github-contribution-grid-snake-dark.svg)
+
