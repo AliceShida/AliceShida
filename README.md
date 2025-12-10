@@ -13,9 +13,5 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliceshida&layout=compact&theme=dracula&cache_seconds=1800)
-
-
-
 ![snake animation](https://github.com/AliceShida/AliceShida/blob/output/github-contribution-grid-snake-dark.svg)
 
