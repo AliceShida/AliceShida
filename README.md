@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AliceShida&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AliceShida&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=AliceShida&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AliceShida&theme=dracula" height="150"/>
 </div>
